@@ -13,4 +13,8 @@ according to the passive house certification.
 4. Minimum Daily Temperatures (MDT): 3650 data of minimum daily temperatures over 10 years (1981-1990) in the city Melbourne, Australia.
 The source of the data is credited as the Australian Bureau of Meteorology. The dataset shows a strong seasonal component with large fluctuations.
 
-5. 
+5. Occupancy (OC): 17600 occupancy data per half hour collected from car parks in Birmingham from October 4, 2016 to December 14, 2016.
+
+6. Temperatures in Italian (TI): 8991 hourly temperatures in an Italian city from March 10, 2004 to April 4, 2005.
+
+7. 
