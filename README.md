@@ -17,4 +17,6 @@ The source of the data is credited as the Australian Bureau of Meteorology. The 
 
 6. Temperatures in Italian (TI): 8991 hourly temperatures in an Italian city from March 10, 2004 to April 4, 2005.
 
-7. 
+7. Sunspot Number (SU): The monthly counts of sunspots observed in Zurich by Andrews and Herzberg from 1749 to 1983. This dataset exhibits seasonality with significant variations between seasons.
+
+8. Temperatures in Beijing (TB): Hourly temperature readings at the Olympic Sports Center in Beijing, China, from March 1, 2013, to March 20, 2015. This time series is large and exhibits periodicity. The dataset is available in the UCI database.
